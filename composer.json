@@ -1,5 +1,5 @@
 {
-    "name": "pantheon-systems/ci-scripts",
+    "name": "thinkshout/ci-scripts",
     "description": "Scripts helpful for testing a Drupal site on a Continuous-Integration server, or locally.",
     "require": {
         "behat/behat": "3.*",
